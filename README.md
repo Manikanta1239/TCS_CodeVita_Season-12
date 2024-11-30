@@ -28,10 +28,10 @@ Example 1
 
 Input
 4
-S D D D
-T T T T
-D D D D
-D E D D
+S D D D\n
+T T T T\n
+D D D D\n
+D E D D\n
 
 Output
 3
