@@ -1,5 +1,6 @@
 import json
-from sympy import symbols, expand
+from sympy import symbols
+from sympy import expand
 from itertools import combinations
 
 def lagrange_interpolation(points):
